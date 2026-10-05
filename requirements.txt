@@ -1,0 +1,11 @@
+vllm==0.19.1
+huggingface_hub
+transformers
+sentence-transformers
+sentencepiece
+numpy
+pandas
+tqdm
+stanza
+spacy-stanza
+language-tool-python
